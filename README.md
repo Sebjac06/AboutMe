@@ -2,7 +2,9 @@
 
 # Hi there 👋
 
-I'm a full stack developer with a passion for creating innovative solutions. Here are some of the technologies I work with: 
+I'm a full stack developer with a passion for creating innovative solutions.
+Here are some of the technologies I work with:
+
 <img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"/>
