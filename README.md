@@ -1,6 +1,7 @@
 # Hi there 👋
 
 I'm a full stack developer with a passion for creating innovative solutions.
+<br />
 Here are some of the technologies I work with:
 
 <img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
