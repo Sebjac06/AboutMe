@@ -1,5 +1,3 @@
-# AboutMe
-
 # Hi there 👋
 
 I'm a full stack developer with a passion for creating innovative solutions.
