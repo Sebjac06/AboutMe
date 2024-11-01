@@ -14,4 +14,4 @@ I'm a full stack developer with a passion for creating innovative solutions. Her
 <img align="left" alt="CSS" width="26px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/> 
 <br />
 <br />
-[Github Stats](https://github-readme-stats.vercel.app/api?username=EpicSebastian&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=EpicSebastian&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
